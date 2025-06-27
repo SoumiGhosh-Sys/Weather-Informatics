@@ -1,1 +1,1 @@
-# Weather-Informatics
+# WeatherInformatics
